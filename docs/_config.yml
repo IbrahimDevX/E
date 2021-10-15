@@ -1,26 +1,26 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
-# Change "moonrise" to your repository name
-url: "https://coffeebank.github.io"
-baseurl: "/moonrise"
-siteIcon: /media/android-chrome-192x192.png
-siteYear: 2020
-siteFooterlink: /about
+# Change "moonrise" your repository name
+url: "https://ibrahimdevx.github.io"
+baseurl: "/E"
+siteIcon: https://cdn.discordapp.com/attachments/881960279334871160/896771379037339658/infernonetworklogomain.jpg
+siteYear: 2021
+siteFooterlink: /404
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
 
 # Set basic server info
-serverName: Moonrise MC
-serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 31.41.59.26:5358
+serverName: Inferno network
+serverDescription: idk what to write here lol
+serverIP: play.infernonetwork.tk:25642
 useBedrockForOnlineStatus: false
 
 
 # Discord information
-discordInvite: https://discord.gg/minecraft
-discordServerID: 299881420891881473
-discordChannelID: 450428756855750666
+discordInvite: https://discord.gg/qCwW6efbQT
+discordServerID: 860126624497139772
+discordChannelID: 881960287572488284
 
 
 # # Navbar Links at the top of the page (uncomment "siteNav" to use)
