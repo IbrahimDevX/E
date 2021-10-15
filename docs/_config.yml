@@ -13,7 +13,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Inferno network
 serverDescription: idk what to write here lol
-serverIP: 51.178.221.3:25642
+serverIP: play.infernonetwork.tk:25642
 useBedrockForOnlineStatus: false
 
 
