@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: Inferno network
 serverDescription: idk what to write here lol
 serverIP: play.infernonetwork.tk:25642
-useBedrockForOnlineStatus: false
+useBedrockForOnlineStatus: true
 
 
 # Discord information
