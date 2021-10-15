@@ -3,7 +3,7 @@
 # Change "moonrise" your repository name
 url: "https://ibrahimdevx.github.io"
 baseurl: "/E"
-siteIcon: https://cdn.discordapp.com/attachments/881960279334871160/896771379037339658/infernonetworklogomain.jpg
+siteIcon: "https://cdn.discordapp.com/attachments/881960279334871160/896771379037339658/infernonetworklogomain.jpg"
 siteYear: 2021
 siteFooterlink: /404
 showinSearchEngines: true
@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: Inferno network
 serverDescription: idk what to write here lol
 serverIP: play.infernonetwork.tk:25642
-useBedrockForOnlineStatus: true
+useBedrockForOnlineStatus: false
 
 
 # Discord information
