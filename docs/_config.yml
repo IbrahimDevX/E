@@ -3,7 +3,7 @@
 # Change "moonrise" your repository name
 url: "https://ibrahimdevx.github.io"
 baseurl: "/E"
-siteIcon: "https://cdn.discordapp.com/attachments/881960279334871160/896771379037339658/infernonetworklogomain.jpg"
+siteIcon: 
 siteYear: 2021
 siteFooterlink: /404
 showinSearchEngines: true
